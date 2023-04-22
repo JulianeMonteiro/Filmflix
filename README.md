@@ -82,13 +82,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🎨 Paleta de Cores
 
+
+- ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png)
 - ![#f40612](https://placehold.co/15x15/f40612/f40612.png)
 - ![#e50914](https://placehold.co/15x15/e50914/e50914.png)
-- ![#222222](https://placehold.co/15x15/222222/222222.png)
-- ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png)
-- ![#000000](https://placehold.co/15x15/000000/000000.png)
-- ![#303030](https://placehold.co/15x15/303030/303030.png)
 - ![#757575](https://placehold.co/15x15/757575/757575.png)
+- ![#303030](https://placehold.co/15x15/303030/303030.png)
+- ![#222222](https://placehold.co/15x15/222222/222222.png)
+- ![#000000](https://placehold.co/15x15/000000/000000.png)
   <br />
 
 ### 🖥️ Layout
