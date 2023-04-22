@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://github.com/JulianeMonteiro/Netflix-Clone/blob/main/img/readme.png" alt="tela principal" width="700" height="350" />
-</p>
-
-<h1 align="center"> Clone da Netflix </h1>
+<h1 align="center"> 
+Filmflix </h1>
 
 <p align="center">
-  <b> ⭐ Projeto Clone da Netflix </b></br>
+  <b> ⭐ Projeto Filmflix </b></br>
 </p>
 
 [![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -25,7 +22,7 @@
 <a id="Introdução"></a>
 
 ## 🧩 Introdução
-<p>  <b> Projeto Clone da Natflix para colocar em prática os meus conhecimentos.  </b></p>
+<p>  <b> Projeto Filmflix para colocar em prática os meus conhecimentos.  </b></p>
 
 <br/>
 
@@ -59,12 +56,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-### 💻 Desktop
-
-| ⭐ Tela Desktop                                                                                                    | ⭐ Tela Mobile                                                                                                       |
-  ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | 
-  ![Desktop](https://github.com/JulianeMonteiro/Netflix-Clone/blob/main/img/tela.png) | ![Mobile](https://github.com/JulianeMonteiro/Netflix-Clone/blob/main/img/mobile.png) |
-<br />
 <a id="Ideias"></a>
 
 ## 💡 Possíveis Melhorias
